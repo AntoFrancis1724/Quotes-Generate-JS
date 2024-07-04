@@ -9,10 +9,6 @@ var quotes = [
 		source: "Anonymous"
 	},
 	{
-		quote: "Keep your eyes on the stars and your feet on the ground.",
-		source: "Theodore Roosevelt"
-	},
-	{
 		quote: "The only person you should try to be better than is the person you were yesterday.",
 		source: "Anonymous"
 	},
